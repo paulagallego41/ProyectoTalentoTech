@@ -151,7 +151,7 @@ with st.container(border=True):
     
     Este dashboard interactivo tiene como propósito:
     - Identificar los grupos poblacionales más vulnerables
-    - Analizar la variabilidad de los hechos en el transcurso de alos años
+    - Analizar la variabilidad de los hechos en el transcurso de los años
     - Determinar los escenarios y mecanismos más frecuentes
     - Comprender los principales factores asociados
     
